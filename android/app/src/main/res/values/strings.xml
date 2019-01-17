@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">AlertingSystem</string>
+    <string name="title_activity_login">Log In</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_invalid_phNo">Invalid Phone Number</string>
+    <string name="error_invalid_email">Invalid EmailId</string>
+    <string name="error_first_name">Enter First Name</string>
+    <string name="error_last_name">Enter Last Name</string>
+
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="logout">Logout</string>
+    <string name="oops_msg">Opps Something went wrong...!</string>
+    <string name="action_signup">Sign Up</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="phno">PhoneNumber</string>
+    <string name="register">Register</string>
+    <string name="loading">Loading...</string>
+</resources>

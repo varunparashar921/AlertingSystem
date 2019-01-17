@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "593940458928",
+    "firebase_url": "https://alertingsystem-82692.firebaseio.com",
+    "project_id": "alertingsystem-82692",
+    "storage_bucket": "alertingsystem-82692.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593940458928:android:d40b4ee64afa2f40",
+        "android_client_info": {
+          "package_name": "com.alertingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593940458928-onh8iipb1e2jhmjnfs9c13sm527vjrcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgSxSG_tkVGH9Axg3qg6iXIcmcpiIVEN0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
